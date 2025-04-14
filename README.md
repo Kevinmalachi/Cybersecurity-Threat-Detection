@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cyber Threat Detection System
 
 This is a machine learning-based system developed for my final year project to detect cyber threats in an eCommerce context. It uses supervised learning techniques to classify user behavior as either safe or suspicious.
@@ -51,3 +52,7 @@ The web interface allows users to:
 ## Error Handling
 -Checks for missing or invalid input
 -Handles wrong data types gracefully
+=======
+# Cybersecurity-Threat-Detection
+22043973- Final Year Project- Cybersecurity Threat Detection Using Machine Learning for ECommerce 
+>>>>>>> 76a6fffd5b3501c72393b4e719337c2409e88c6b
