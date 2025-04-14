@@ -1,0 +1,46 @@
+2025-04-13 20:33:11,275 - INFO - generated new fontManager
+2025-04-13 20:33:40,425 - INFO - Successfully preprocessed 1000 records
+2025-04-13 20:33:40,426 - ERROR - Error in prepare_training_data: Input y contains NaN.
+2025-04-13 20:33:40,426 - ERROR - Error in train_and_evaluate: Input y contains NaN.
+2025-04-13 20:34:06,051 - INFO - Successfully preprocessed 937 records
+2025-04-13 20:34:06,057 - ERROR - Error in model training: could not convert string to float: 'user_0238'
+2025-04-13 20:34:06,057 - ERROR - Error in train_and_evaluate: could not convert string to float: 'user_0238'
+2025-04-13 20:34:33,630 - INFO - Successfully preprocessed 937 records
+2025-04-13 20:34:33,716 - INFO - Model training completed successfully
+2025-04-13 20:34:33,725 - INFO - Model Evaluation Metrics:
+2025-04-13 20:34:33,725 - INFO - Accuracy: 1.0000
+2025-04-13 20:34:33,725 - INFO - Precision: 1.0000
+2025-04-13 20:34:33,725 - INFO - Recall: 1.0000
+2025-04-13 20:34:33,725 - INFO - F1-Score: 1.0000
+2025-04-13 20:34:34,767 - INFO - Model saved to models/cyber_threat_model.pkl
+2025-04-13 20:34:48,596 - INFO - Loaded preprocessor and model successfully
+2025-04-13 20:34:48,616 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-13 20:34:48,616 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-13 20:34:48,617 - INFO -  * Restarting with stat
+2025-04-13 20:34:50,195 - INFO - Loaded preprocessor and model successfully
+2025-04-13 20:34:50,206 - WARNING -  * Debugger is active!
+2025-04-13 20:34:50,208 - INFO -  * Debugger PIN: 799-151-021
+2025-04-13 20:37:12,597 - INFO -  * Detected change in 'C:\\Users\\siaga\\CascadeProjects\\2025_Final_Project\\app.py', reloading
+2025-04-13 20:37:12,863 - INFO -  * Restarting with stat
+2025-04-13 20:37:14,478 - INFO - Loaded preprocessor and model successfully
+2025-04-13 20:37:14,490 - WARNING -  * Debugger is active!
+2025-04-13 20:37:14,491 - INFO -  * Debugger PIN: 799-151-021
+2025-04-13 20:37:34,488 - INFO - Loaded preprocessor and model successfully
+2025-04-13 20:37:34,511 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.73.197.163:8080
+2025-04-13 20:37:34,512 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-13 20:37:34,513 - INFO -  * Restarting with stat
+2025-04-13 20:37:36,086 - INFO - Loaded preprocessor and model successfully
+2025-04-13 20:37:36,098 - WARNING -  * Debugger is active!
+2025-04-13 20:37:36,099 - INFO -  * Debugger PIN: 799-151-021
+2025-04-13 20:37:48,615 - INFO - 127.0.0.1 - - [13/Apr/2025 20:37:48] "GET / HTTP/1.1" 200 -
+2025-04-13 20:37:48,825 - INFO - 127.0.0.1 - - [13/Apr/2025 20:37:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-13 20:38:16,240 - ERROR - Error in prediction endpoint: Invalid type for fields: session_duration, transaction_amount, number_of_failed_logins
+2025-04-13 20:38:16,240 - INFO - 127.0.0.1 - - [13/Apr/2025 20:38:16] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -
+2025-04-13 20:42:51,467 - INFO -  * Detected change in 'C:\\Users\\siaga\\CascadeProjects\\2025_Final_Project\\app.py', reloading
+2025-04-13 20:42:51,757 - INFO -  * Restarting with stat
+2025-04-13 20:42:51,945 - INFO -  * Detected change in 'C:\\Users\\siaga\\CascadeProjects\\2025_Final_Project\\app.py', reloading
+2025-04-13 20:42:52,197 - INFO -  * Restarting with stat

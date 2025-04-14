@@ -1,0 +1,53 @@
+2025-04-13 20:42:52,032 - WARNING -  * Debugger is active!
+2025-04-13 20:42:52,034 - INFO -  * Debugger PIN: 799-151-021
+2025-04-13 20:42:52,444 - WARNING -  * Debugger is active!
+2025-04-13 20:42:52,446 - INFO -  * Debugger PIN: 799-151-021
+2025-04-13 20:43:05,590 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.73.197.163:8080
+2025-04-13 20:43:05,590 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-13 20:43:05,591 - INFO -  * Restarting with stat
+2025-04-13 20:43:05,847 - WARNING -  * Debugger is active!
+2025-04-13 20:43:05,849 - INFO -  * Debugger PIN: 799-151-021
+2025-04-13 20:43:42,706 - INFO - 127.0.0.1 - - [13/Apr/2025 20:43:42] "GET / HTTP/1.1" 200 -
+2025-04-13 20:43:52,573 - INFO - 127.0.0.1 - - [13/Apr/2025 20:43:52] "POST /predict HTTP/1.1" 200 -
+2025-04-13 20:44:05,309 - INFO - 127.0.0.1 - - [13/Apr/2025 20:44:05] "POST /predict HTTP/1.1" 200 -
+2025-04-13 20:45:37,884 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.73.197.163:8080
+2025-04-13 20:45:37,885 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-13 20:45:37,886 - INFO -  * Restarting with stat
+2025-04-13 20:45:38,130 - WARNING -  * Debugger is active!
+2025-04-13 20:45:38,132 - INFO -  * Debugger PIN: 799-151-021
+2025-04-13 20:47:48,260 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.73.197.163:8080
+2025-04-13 20:47:48,260 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-13 20:47:48,261 - INFO -  * Restarting with stat
+2025-04-13 20:47:48,523 - WARNING -  * Debugger is active!
+2025-04-13 20:47:48,525 - INFO -  * Debugger PIN: 799-151-021
+2025-04-13 20:50:51,049 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.73.197.163:8080
+2025-04-13 20:50:51,049 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-13 20:50:51,050 - INFO -  * Restarting with stat
+2025-04-13 20:50:51,297 - WARNING -  * Debugger is active!
+2025-04-13 20:50:51,299 - INFO -  * Debugger PIN: 799-151-021
+2025-04-13 21:06:27,737 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://10.73.197.163:8080
+2025-04-13 21:06:27,737 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-13 21:06:27,738 - INFO -  * Restarting with stat
+2025-04-13 21:06:27,986 - WARNING -  * Debugger is active!
+2025-04-13 21:06:27,988 - INFO -  * Debugger PIN: 799-151-021
+2025-04-13 21:09:55,610 - INFO -  * Detected change in 'D:\\2025 Final Project\\simple_predict.py', reloading
+2025-04-13 21:09:55,662 - INFO -  * Restarting with stat
+2025-04-13 21:09:55,926 - WARNING -  * Debugger is active!
+2025-04-13 21:09:55,928 - INFO -  * Debugger PIN: 799-151-021
+2025-04-13 21:10:33,027 - INFO -  * Detected change in 'D:\\2025 Final Project\\app.py', reloading
+2025-04-13 21:10:33,087 - INFO -  * Restarting with stat
